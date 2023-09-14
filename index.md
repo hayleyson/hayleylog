@@ -1,5 +1,5 @@
 ---
-title: Hayley's Blog , a log of my studying and thinking about NLP, AI, and Mental Health
+title: Home
 ---
 
 Hello, I'm Hye Ryung Son, a Master's student at Seoul National University Graduate School of Data Science.
